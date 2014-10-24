@@ -1,7 +1,5 @@
-Camel Component Project
+UNOFFICIAL camel component for interacting with the Artemis SBS game server using EIP.
 =======================
-
-This project is a template of a Camel component.
 
 To build this project use
 
