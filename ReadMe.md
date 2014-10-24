@@ -1,4 +1,4 @@
-UNOFFICIAL camel component for interacting with the Artemis SBS game server using EIP.
+camel component for interacting with the Artemis SBS game server using EIP (UNOFFICIAL).
 =======================
 
 To build this project use
