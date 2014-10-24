@@ -23,6 +23,13 @@
     </properties>
 
     <dependencies>
+
+        <dependency>
+            <groupId>com.eochu.artemis</groupId>
+            <artifactId>artclientlib</artifactId>
+            <version>2.4.3</version>
+        </dependency>
+
         <dependency>
             <groupId>org.apache.camel</groupId>
             <artifactId>camel-core</artifactId>
@@ -107,4 +114,12 @@
         </plugins>
     </build>
 
+    <repositories>
+        <!--internal repository fabricated locally-->
+        <repository>
+            <id>dep.local</id>
+            <name>dep</name>
+            <url>file:${project.basedir}/repo</url>
+        </repository>
+    </repositories>
 </project>
