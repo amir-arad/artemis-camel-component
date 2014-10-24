@@ -1,5 +1,9 @@
-camel component for interacting with the Artemis SBS game server using EIP (UNOFFICIAL).
-=======================
+
+artemis-camel-component
+====
+UNOFFICIAL camel component for interacting with the Artemis SBS game server using EIP.
+based on **ArtClientLib**
+
 
 To build this project use
 
